@@ -1,0 +1,21 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS
+.DS_Store
+.vscode/
+.idea/
+
+# Uploads
+uploads/
