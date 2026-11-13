@@ -2,7 +2,7 @@
 
 A focused take-home system for predicting a shipment's final arrival and explaining how delay moves across stages.
 
-The repository holds a synthetic set of 200 shipments and a model that predicts final delay once port of discharge is complete. The short submission PDF is still to be written from these notes.
+The repository holds a synthetic set of 200 shipments and a model that predicts final delay once port of discharge is complete. The submission report is [report/Jayaram_Nalluru_Aiqon_ETA_Report.pdf](report/Jayaram_Nalluru_Aiqon_ETA_Report.pdf) (2 pages: approach, results, and limitations). The longer working notes are [report/01_definitions_and_data.md](report/01_definitions_and_data.md) and [report/02_model_results.md](report/02_model_results.md).
 
 ## Delay, in one line
 
